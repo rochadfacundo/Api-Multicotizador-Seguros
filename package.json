@@ -1,0 +1,19 @@
+{
+  "name": "multicotizador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cotizadorATM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rochadfacundo/Api-Multicotizador-Seguros.git"
+  },
+  "author": "Facundo Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rochadfacundo/Api-Multicotizador-Seguros/issues"
+  },
+  "homepage": "https://github.com/rochadfacundo/Api-Multicotizador-Seguros#readme"
+}
