@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/rochadfacundo/Api-Multicotizador-Seguros/issues"
   },
-  "homepage": "https://github.com/rochadfacundo/Api-Multicotizador-Seguros#readme"
+  "homepage": "https://github.com/rochadfacundo/Api-Multicotizador-Seguros#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "basic-ftp": "^5.0.5",
+    "soap": "^1.1.5"
+  }
 }
