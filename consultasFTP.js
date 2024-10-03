@@ -7,11 +7,11 @@ async function connectAndListFiles() {
     try {
         // Conectar al servidor FTP
         await client.access({
-            host: 'wsatm-dev.atmseguros.com.ar',
+            host: 'wsatm.atmseguros.com.ar', // host produccion
             user: 'TECYSEG',
-            password: 'TECYSEG%24', // Asegúrate de que la contraseña sea correcta
-            secure: false, // Asegúrate de que esté en false para conexiones sin cifrado
-            port: 2111 // Asegúrate de que el puerto sea correcto
+            password: 'TECYSEG%24',
+            secure: false, // conexiones sin cifrado
+            port: 2113 //  puerto produccion correcto
         });
 
         console.log("Conectado al servidor FTP.");
@@ -23,10 +23,11 @@ async function connectAndListFiles() {
 
     } catch (error) {
         console.error("Error al conectar o listar archivos:", error);
-    } finally {
-        client.close(); // Cerrar la conexión
+    } finally 
+    {
+        client.close();
     }
 }
 
-// Ejecuta la función
+
 connectAndListFiles();
