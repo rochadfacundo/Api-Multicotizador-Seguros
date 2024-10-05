@@ -1,0 +1,99 @@
+codigo;TIPO_INSP;CONCEPTO;TIPO_REG;DESCRIPCION;orden
+1;A;CASCO;0;Paños;1
+2;A;CASCO;0;Reparar;2
+3;A;CASCO;0;Pintar;3
+4;A;CASCO;1;PuertaDD;1
+5;A;CASCO;1;PuertaDI;2
+6;A;CASCO;1;PuertaTD;3
+7;A;CASCO;1;PuertaTI;4
+8;A;CASCO;1;GuardabarroDD;5
+9;A;CASCO;1;GuardabarroDI;6
+10;A;CASCO;1;GuardabarroTD;7
+11;A;CASCO;1;GuardabarroTI;8
+12;A;CASCO;1;Puerta Lateral;9
+13;A;CASCO;1;Portón Trasero;0
+14;A;CASCO;1;Paragolpe Del.;11
+15;A;CASCO;1;Paragolpe Tras.;12
+16;A;CASCO;1;Capot;13
+17;A;CASCO;1;Baúl;14
+18;A;CASCO;1;Techo;15
+19;A;FAROS;0;Faros;1
+20;A;FAROS;0;Roto;2
+21;A;FAROS;0;Faltante;3
+22;A;FAROS;1;Optica DD;1
+23;A;FAROS;1;Optica DI;2
+24;A;FAROS;1;Faro Regl. TD;3
+25;A;FAROS;1;Faro Regl. TI;4
+26;A;CUBIERTAS;0;Cubiertas;1
+27;A;CUBIERTAS;0; 0 %      (8mm prof);2
+28;A;CUBIERTAS;0;10%    (7mm prof);3
+29;A;CUBIERTAS;0;20%    (6mm prof);4
+30;A;CUBIERTAS;0;40%    (5mm prof);5
+31;A;CUBIERTAS;0;50%    (4mm prof);6
+32;A;CUBIERTAS;0;60%    (3mm prof);7
+33;A;CUBIERTAS;0;70%    (2mm prof);8
+34;A;CUBIERTAS;1;Cubiertas DD;1
+35;A;CUBIERTAS;1;Cubiertas DI;2
+36;A;CUBIERTAS;1;Cubiertas TD;3
+37;A;CUBIERTAS;1;Cubiertas TI;4
+38;A;CUBIERTAS;1;Cubierta Aux.;5
+39;A;CRISTALES;0;Cristales;1
+40;A;CRISTALES;0;Rajado;2
+41;A;CRISTALES;0;Faltante;3
+42;A;CRISTALES;1;Parabrisas;1
+43;A;CRISTALES;1;Luneta;2
+44;A;CRISTALES;1;Puerta DD;3
+45;A;CRISTALES;1;Puerta DI;4
+46;A;CRISTALES;1;Puerta TD;5
+47;A;CRISTALES;1;Puerta TI;6
+48;A;CRISTALES;1;Ventilete LD;7
+49;A;CRISTALES;1;Ventilete LI;8
+50;A;CIERRES;0;Cierres;1
+51;A;CIERRES;0;Roto o No Funciona;2
+52;A;CIERRES;1;Puerta DD;1
+53;A;CIERRES;1;Puerta DI;2
+54;A;CIERRES;1;Puerta TD;3
+55;A;CIERRES;1;Puerta TI;4
+56;A;CIERRES;1;Baul;5
+57;A;CIERRES;1;Portón Trasero;6
+58;A;CIERRES;1;Capot;7
+59;M;ESTGRAL;0;Paños;1
+60;M;ESTGRAL;0;Reparar;2
+61;M;ESTGRAL;0;Pintar;4
+62;M;CUBIERTAS;0;Cubiertas;1
+63;M;ESPEJOS;0;Espejos;1
+64;M;LUCES;0;Luces;1
+65;M;ESTGRAL;1;Instrumental Tablero;3
+66;M;ESTGRAL;1;Manubrio;4
+67;M;ESTGRAL;1;Guardabarro Del.;5
+68;M;ESTGRAL;1;Guardabarro Tras.;6
+69;M;ESTGRAL;1;Horquilla;7
+70;M;ESTGRAL;1;Llantas;8
+71;M;ESTGRAL;1;Tanque Combiustible;9
+72;M;ESTGRAL;1;Cuadro;10
+73;M;ESTGRAL;1;Asiento Tapizado;11
+74;M;ESTGRAL;1;Escape;12
+75;M;ESTGRAL;1;Cacha Lateral Der.;13
+76;M;ESTGRAL;1;Cacha lateral Izq;14
+77;M;ESTGRAL;0;Cambiar;3
+78;M;CUBIERTAS;0;Nueva;2
+79;M;CUBIERTAS;0;Excelente;3
+80;M;CUBIERTAS;0;Muy Buena;4
+81;M;CUBIERTAS;0;Bueno;5
+82;M;CUBIERTAS;0;Regular;6
+83;M;CUBIERTAS;0;Malo;7
+84;M;CUBIERTAS;1;Cubierta Del.;1
+85;M;CUBIERTAS;1;Cubierta Tras.;2
+86;M;LUCES;0;Roto;2
+87;M;LUCES;0;Faltante;3
+88;M;LUCES;1;Optica Del.;1
+89;M;LUCES;1;Lus de Giro DD;2
+90;M;LUCES;1;Luz de Giro DI;3
+91;M;LUCES;1;Luz de Stop;4
+92;M;LUCES;1;Luz Reglam.Tras.;5
+93;M;LUCES;1;Luz de Giro TD;6
+94;M;LUCES;1;Luz de Giro TI;7
+95;M;ESPEJOS;0;Roto;2
+96;M;ESPEJOS;0;Faltante;3
+97;M;ESPEJOS;1;Espejo Retrovisor Der.;1
+98;M;ESPEJOS;1;Espejo Retrovisor Izq.;2

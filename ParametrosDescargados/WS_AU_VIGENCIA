@@ -1,0 +1,6 @@
+codigo;descripcion;cuotas
+A         ;Anual;12        
+S         ;Semestral;6         
+M         ;Mensual;1         
+Q         ;Cuatrimestral;4         
+T         ;Anual/Refac Trimestral;12        
