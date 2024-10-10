@@ -1,0 +1,22 @@
+
+
+
+https://apidev.mercantilandina.com.ar/vehiculos/v1/infoauto/180058
+
+          <h1>ERROR INTERNO</h1>
+          <p>Puerta de enlace no valida.</p>
+
+
+https://apidev.mercantilandina.com.ar/cotizaciones/v2/auto
+{
+  "statusCode": 401,
+  "message": "No disponible - TokenInvalido"
+}
+
+
+https://apidev.mercantilandina.com.ar/credenciales/v2/
+{
+  "statusCode": 500,
+  "message": "Internal server error",
+  "activityId": "adeabdde-dfc8-4aba-9942-27401841ace3"
+}

@@ -24,10 +24,12 @@ const xmlRequest = `
           <iva>CF</iva>
         </asegurado>
         <bien>
-          <marca>46</marca> 
-          <modelo>136</modelo> 
-          <anofab>2002</anofab>
-          <uso>0101</uso> 
+          <marca>32</marca>
+           <modelo>342</modelo>
+          <cod_infoauto>36956</cod_infoauto>
+          <anofab>2001</anofab>
+           <tipo_uso>1</tipo_uso>
+          <uso>1414</uso>
           <codpostal>1824</codpostal>
           <ajuste>20</ajuste>
           <alarma>0</alarma>
@@ -37,8 +39,7 @@ const xmlRequest = `
          </tem:doc_in>
       </tem:AUTOS_Cotizar>
    </soap:Body>
-</soap:Envelope>
-`;
+</soap:Envelope>`;
 
 async function sendSoapRequest() {
     try {
